@@ -1,0 +1,20 @@
+.result-card{
+    color: bisque;
+    background-color: rgb(77, 74, 74);
+    margin: 10px 10px;
+    min-width: 80px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+.result-card:hover{
+    background-color: rgb(127, 124, 120);
+
+}
+.result-name{
+    font-weight: 100;
+}
+.card-link{
+    text-decoration: none;
+}
